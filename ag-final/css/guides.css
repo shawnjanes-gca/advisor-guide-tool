@@ -1,0 +1,45 @@
+/*PNC*/
+
+table.pnc_table_header {
+	background: #8E0000;
+	height: 65px;
+	}	
+
+table.pnc_table_footer {
+	background: #8E0000;
+	height: 15px;
+	}
+.pnc_copyright{
+	font-family: Verdana;
+	font-weight: bold;
+	color: #ffffff;
+	font-size: 7pt;
+	}
+
+A.pnc_link  { 
+	color : #FFFFFF; 
+	font-size: 7pt;             
+	text-decoration : none;
+	font-weight : bold; 
+        }
+
+A:hover.pnc_link  { 
+	color : #FFFFFF; 
+	font-size: 7pt;             
+	text-decoration : underline; 
+	font-style : none;
+	font-weight : bold;
+        }
+
+A:visited.pnc_link  { 
+	color : #FFFFFF; 
+	font-size: 7pt;             
+	text-decoration : none;
+	font-weight : bold; 
+	}
+A:visited:hover.pnc_link  { 
+	color : #FFFFFF; 
+	font-size: 7pt;             
+	text-decoration : underline;
+	font-weight : bold; 
+	}		

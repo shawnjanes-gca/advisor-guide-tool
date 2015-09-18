@@ -1,0 +1,24 @@
+```````````````````````````````````<!DOCTYPE html>
+<html lang="en">
+<HTML>
+<HEAD>
+	<meta charset="utf-8">
+	<title></title>
+	<meta name="description" content="" />
+	<meta name="keywords" content="" />
+	<meta name="robots" content="" />
+	<script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
+	<TITLE>jQuery Animate Demos</TITLE>
+	<STYLE>
+		body,input {font-family:Calibri,Arial}
+		#content1{background-color:#fa0;width:300px;height:30px;padding:3px;margin-top:5px}
+	</STYLE>
+</HEAD>
+	<BODY>
+		<input type="button" id="animate1" value="Animate"/>
+		<input type="button" id="reset1" value="Reset"/>
+		<div id="content1">Animate Height</div>
+		<script type="text/javascript">$("#animate1").click(function(){$("#content1").animate({"height":"80px"},"fast");});$("#reset1").click(function(){$("#content1").css("height","30px");});
+		</script>
+	</BODY>
+</HTML>

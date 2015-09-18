@@ -1,0 +1,172 @@
+/* GCA SkillMark Advisor Guides Stylesheet */
+
+td.navrow {
+
+	text-align: right;
+	background-color: #B97C61;
+	color: #ffffff;
+	font-family: arial;
+	font-size: 8pt;
+	font-weight: bold;
+	text-decoration: none;
+
+	}
+
+td.logorow {
+
+	padding-right:0;
+	padding-bottom:1px;
+	border-collapse: collapse;
+	vertical-align: top;
+	background-color: #ffffff;
+
+	}
+
+body	{ 
+	margin-top:0;
+	margin-bottom:0;
+	margin-left:0;
+        margin-right:0;
+	}
+
+
+A	{ 
+	color : #3366CC;
+	font-weight: bold;
+	text-decoration : none; 
+	}
+
+A:visited { 
+	color : #3366CC;
+	font-weight: bold;
+	text-decoration : none; 
+	}
+
+
+A:hover { 
+	color : #ff0000;
+	font-weight: bold;
+	text-decoration : underline; 
+	}
+
+
+A.back 	{ 
+	color : #1968C7; 
+	font-family: arial; 
+	font-size : 9pt;
+	}
+	
+.
+body 	{
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	}
+
+
+.default { 
+	font-size: 8pt; 
+	font-family: arial; 
+	text-align: default; 
+	}
+	
+
+.defaultblue 	{ 
+	color: #B97C61; 
+	font-size: 8pt; 
+	font-family: arial; 
+	text-align: left ; 
+	font-weight: normal;
+	}
+
+
+.defaultbluebold	{ 
+	color: #B97C61; 
+	font-size: 8pt; 
+	font-family: arial; 
+	text-align: left ; 
+	font-weight: bold; 
+	}
+
+
+.copyright 	{
+	color: black; 
+	font-size: 7pt; 
+	font-family: arial; 
+	font-weight : bold;
+	}
+
+
+.agheader	{ 
+	color: #000000; 
+	font-size: 9pt; 
+	font-family: arial; 
+	text-align: left ; 
+	font-weight: bold; 
+	}
+
+
+.paragraphheader	{ 
+	font-size: 8pt; 
+	font-family: arial; 
+	text-align: default; 
+	font-weight: bold;
+	color: #666666;
+	}
+
+
+.pageheader	{ 
+	font-size: 8pt; 
+	font-family: arial; 
+	text-align: default; 
+	font-weight: bold;
+	color: #B97C61;
+	}
+	
+
+/* TOC */
+
+.categorytitle { 
+	color: #666666;
+	font: bold; 	
+	font-size: 8pt; 
+	font-family: arial; 
+	text-align: default; 
+	}
+	
+	
+.defaultindex	{ 
+	font-size: 8pt; 
+	font-family: arial; 
+	text-align: default; 
+	}
+	
+
+.headertable {
+	background-image: url(http://www.greeneconsults.com/topclass/greene/guides/images/nav_state_up_05.gif);
+	
+	}
+
+/* Tables */
+
+.tabletexta { 
+	font-size: 8pt; 
+	font-family: arial; 
+	text-align: default;
+	font-style: italic;
+	color: #000000;
+	}
+
+
+.tablestandard {
+	padding: 8px;
+	border:2px solid #666666;
+	border-collapse:collapse;
+	background: #ffffcc;
+	}
+
+tr.tablestandard {
+	padding: 8px;
+	}
+
